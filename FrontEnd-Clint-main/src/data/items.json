@@ -1,0 +1,92 @@
+[
+    {
+        "name": "26th Jan Chicken Biryani",
+        "half": 0.0,
+        "full": 150.0,
+        "swiggy_half": 0.0,
+        "swiggy_full": 0.0,
+        "zomato_half": 0.0,
+        "zomato_full": 0.0
+    },
+    {
+        "name": "26th Jan Veg Biryani",
+        "half": 0.0,
+        "full": 120.0,
+        "swiggy_half": 0.0,
+        "swiggy_full": 0.0,
+        "zomato_half": 0.0,
+        "zomato_full": 0.0
+    },
+    {
+        "name": "ACR fried chicken",
+        "half": 0.0,
+        "full": 150.0,
+        "swiggy_half": 0.0,
+        "swiggy_full": 0.0,
+        "zomato_half": 0.0,
+        "zomato_full": 0.0
+    },
+    {
+        "name": "Manchurian Chicken",
+        "half": 0.0,
+        "full": 200.0,
+        "swiggy_half": 0.0,
+        "swiggy_full": 220.0,
+        "zomato_half": 0.0,
+        "zomato_full": 220.0
+    },
+    {
+        "name": "Watermelon Mojito",
+        "half": 0.0,
+        "full": 200.0,
+        "swiggy_half": 0.0,
+        "swiggy_full": 220.0,
+        "zomato_half": 0.0,
+        "zomato_full": 220.0
+    },
+    {
+        "name": "affectionary special burger",
+        "half": 0.0,
+        "full": 200.0,
+        "swiggy_half": 0.0,
+        "swiggy_full": 220.0,
+        "zomato_half": 0.0,
+        "zomato_full": 220.0
+    },
+    {
+        "name": "kitkat chocolate",
+        "half": 0.0,
+        "full": 200.0,
+        "swiggy_half": 0.0,
+        "swiggy_full": 220.0,
+        "zomato_half": 0.0,
+        "zomato_full": 220.0
+    },
+    {
+        "name": "paneer corn sandwich",
+        "half": 0.0,
+        "full": 200.0,
+        "swiggy_half": 0.0,
+        "swiggy_full": 220.0,
+        "zomato_half": 0.0,
+        "zomato_full": 220.0
+    },
+    {
+        "name": "rose momo veg",
+        "half": 0.0,
+        "full": 200.0,
+        "swiggy_half": 0.0,
+        "swiggy_full": 220.0,
+        "zomato_half": 0.0,
+        "zomato_full": 220.0
+    },
+    {
+        "name": "rose momos",
+        "half": 0.0,
+        "full": 200.0,
+        "swiggy_half": 0.0,
+        "swiggy_full": 220.0,
+        "zomato_half": 0.0,
+        "zomato_full": 220.0
+    }
+]
